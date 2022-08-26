@@ -1,0 +1,11 @@
+img.img-play{
+    width: 80px;
+    height:80px;
+}
+
+.opciones{
+    background-color: aquamarine;
+}
+button.btn-play{
+    border-radius: 20px;
+}
